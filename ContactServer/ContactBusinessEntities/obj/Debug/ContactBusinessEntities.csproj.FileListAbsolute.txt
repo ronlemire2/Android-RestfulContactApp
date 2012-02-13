@@ -1,0 +1,5 @@
+C:\Dev\Data\GitHub\ContactBusinessEntities\bin\Debug\ContactBusinessEntities.dll
+C:\Dev\Data\GitHub\ContactBusinessEntities\bin\Debug\ContactBusinessEntities.pdb
+C:\Dev\Data\GitHub\ContactBusinessEntities\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Data\GitHub\ContactBusinessEntities\obj\Debug\ContactBusinessEntities.dll
+C:\Dev\Data\GitHub\ContactBusinessEntities\obj\Debug\ContactBusinessEntities.pdb

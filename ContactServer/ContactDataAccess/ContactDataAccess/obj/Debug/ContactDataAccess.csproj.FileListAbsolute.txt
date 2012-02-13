@@ -1,0 +1,8 @@
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\bin\Debug\ContactDataAccess.dll.config
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\bin\Debug\ContactDataAccess.dll
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\bin\Debug\ContactDataAccess.pdb
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\obj\Debug\ContactDataAccess.dll
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\obj\Debug\ContactDataAccess.pdb
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\bin\Debug\ContactBusinessEntities.dll
+C:\Dev\Data\GitHub\ContactDataAccess\ContactDataAccess\bin\Debug\ContactBusinessEntities.pdb

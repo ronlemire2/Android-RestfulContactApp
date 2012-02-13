@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+  <EditTextPreference android:title="@string/titleMultipleContactUrl"
+    android:summary="@string/summaryMultipleContactUrl" android:key="multipleContactUrl"></EditTextPreference>
+  <EditTextPreference android:title="@string/titleSingleContactUrl"
+    android:summary="@string/summarySingleContactUrl" android:key="singleContactUrl"></EditTextPreference>
+</PreferenceScreen>

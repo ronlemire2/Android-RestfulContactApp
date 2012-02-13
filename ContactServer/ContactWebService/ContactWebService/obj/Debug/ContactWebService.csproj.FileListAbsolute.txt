@@ -1,0 +1,11 @@
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactWebService.dll
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactWebService.pdb
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactBusinessEntities.dll
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactBusinessLogic.dll
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactDataAccess.dll
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactBusinessEntities.pdb
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactBusinessLogic.pdb
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\bin\Debug\ContactDataAccess.pdb
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\obj\Debug\ContactWebService.dll
+C:\Dev\Data\GitHub\ContactWebService\ContactWebService\obj\Debug\ContactWebService.pdb

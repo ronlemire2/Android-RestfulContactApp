@@ -1,0 +1,12 @@
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactBusinessLogic.dll
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactBusinessLogic.pdb
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactBusinessEntities.dll
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactDataAccess.dll
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactBusinessEntities.pdb
+C:\Dev\Data\GitHub\ContactBusinessLogic\bin\Debug\ContactDataAccess.pdb
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\ContactBusinessLogic.ResourceStrings.resources
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\GenerateResource.read.1.tlog
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\GenerateResource.write.1.tlog
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\ContactBusinessLogic.dll
+C:\Dev\Data\GitHub\ContactBusinessLogic\obj\Debug\ContactBusinessLogic.pdb
